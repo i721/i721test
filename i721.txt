@@ -1,2 +1,4 @@
 git is good
 it is a test
+a third line
+a forth line
